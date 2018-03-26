@@ -7,7 +7,7 @@ BRANDS= []
     @brand = brand
     BRANDS.each do |_brand|
       if @brand != _brand
-    BRANDS<< brand
+    BRANDS<< @brand
   end
 end
   end
