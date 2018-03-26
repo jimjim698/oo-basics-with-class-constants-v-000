@@ -9,7 +9,7 @@ BRANDS= []
     false
   else
     BRANDS<< brand
-  
+
 end
   end
 
