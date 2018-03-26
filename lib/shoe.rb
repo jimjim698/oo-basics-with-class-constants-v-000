@@ -6,8 +6,8 @@ BRANDS= []
   def initialize(brand)
     @brand = brand
     BRANDS.each do |_brand|
-      if @brand != _brand
-    BRANDS<< @brand
+      if brand != _brand
+    BRANDS<< brand
   end
 end
   end
